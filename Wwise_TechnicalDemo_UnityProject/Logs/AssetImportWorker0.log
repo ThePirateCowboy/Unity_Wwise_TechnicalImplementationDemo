@@ -2239,3 +2239,57 @@ Start importing Assets/Prefabs using Guid(7bf66a115898b417785a1714505429eb) Impo
  -> (artifact id: '87ca2291c29e2690c0b6593f629287a9') in 0.012471 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 20.663452 seconds.
+  path: Assets/WwiseSettings.xml
+  artifactKey: Guid(07cc4593ac6894cdfa537b11856f5e89) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/WwiseSettings.xml using Guid(07cc4593ac6894cdfa537b11856f5e89) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd3592435cfd4c0c5ed97d819776605c4') in 0.012476 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 2.145620 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(2ade5869c20ea4bcf862c89bc0563ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(2ade5869c20ea4bcf862c89bc0563ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '24bc987620cebcf95dc16df490703319') in 0.003412 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 17.203101 seconds.
+  path: Assets/Scenes/TemplateScene.unity
+  artifactKey: Guid(2770981c8cc4d499c82877cb0c980adf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/TemplateScene.unity using Guid(2770981c8cc4d499c82877cb0c980adf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '7221b533b4ea674cc43976cb4aade672') in 0.002096 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.941925 seconds.
+  path: Assets/Scenes/TemplateScene.unity
+  artifactKey: Guid(2770981c8cc4d499c82877cb0c980adf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scenes/TemplateScene.unity using Guid(2770981c8cc4d499c82877cb0c980adf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'c0a21b6efc7fac4db19d30101a8847ad') in 0.013684 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 7.859750 seconds.
+  path: Assets/Scenes/TemplateScene.unity
+  artifactKey: Guid(2770981c8cc4d499c82877cb0c980adf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/TemplateScene.unity using Guid(2770981c8cc4d499c82877cb0c980adf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '40ed8a493cb51601ce565a2114972856') in 0.000415 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.940564 seconds.
+  path: Assets/Scenes/TemplateScene.unity
+  artifactKey: Guid(2770981c8cc4d499c82877cb0c980adf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scenes/TemplateScene.unity using Guid(2770981c8cc4d499c82877cb0c980adf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'c1fe8e6863d300ad5af0cf62e4fbc1f5') in 0.008282 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
